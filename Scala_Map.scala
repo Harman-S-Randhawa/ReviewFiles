@@ -2,7 +2,7 @@
 // Accessing Values Using Keys 
   
 // Creating object  
-object GFG 
+object Map_test 
 { 
     // Main method 
     def main(args:Array[String]) 
