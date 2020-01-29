@@ -1,0 +1,16 @@
+
+	1) +=: This method is used to add a single element in the end of the queue
+
+	2) ++=: This method is used to Insert more than one the element in the end of the queue
+
+	3) clear: Remove all elements from the queue 
+
+	4) dequeue: Returns the first element in the queue
+
+	5) enqueue: Adds all the elements to the queue.
+
+	6) equals: Checks if two queues are structurally identical.
+
+	7) front: Returns the first element in the queue.
+
+	8) isEmpty: Check if the queue is empty or not.
