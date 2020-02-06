@@ -13,7 +13,7 @@ object curryingFunc {
   
   
   def main(args: Array[String]) {
-    println(add(20, 30))
+    println(add(15, 30))
     
     println(add2(25)(45))
     
